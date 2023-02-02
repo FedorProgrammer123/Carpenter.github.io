@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: #E9E9E9;
+}
+header{
+    width: 100%;
+    height: 1000px;
+    background: url('../Img/background.png') no-repeat;
+    background-size: 100%;
+    margin-top: 30px;
+}
+#logo{
+    margin-top: 40px;
+    margin-left: 600px;
+    background: none;
+    border:0px;
+}
+#order{
+    margin-left: 50px;
+    width: 200px;
+    height: 50px;
+    background-color: #AB8452;
+    color: #F1F7F9;
+    margin-top: 30px;
+    font-weight: bolder;
+}
+#number{
+    padding-left: 1400px;
+    margin-top: -70px;
+    color: #D29E5F;
+}
+#menu{
+    margin-top: 60px;
+}
+#menu .container-fluid{
+    background-color: #AB8452;
+}
+#menu a{
+    color: #F1F7F9;
+}
+.slide{
+    margin-top: -790px;
+    z-index: 0;
+}
+.secondblock{
+    width: 100%;
+    height: 1000px;
+    background: url('../Img/background.png') no-repeat;
+    background-size: 100%;
+}
+.subsecondblock{
+    width: 732px;
+    height: 283px;
+    background: url('../Img/wood-choice.png') no-repeat;
+    margin-left: 590px;
+    margin-top: 5px;
+
+}
+#CARPENTER230{
+    padding-left: 50px;
+    padding-top: 80px;
+    font-weight: bolder;
+}
+#Carpenter230nut{
+    padding-left: 450px;
+    margin-top: -40px;
+    font-weight: bolder;
+}
+#watch1{
+    margin-left: 150px;
+    border: 1px solid #000;
+    margin-top: -30px;
+}
+#watch2{
+    margin-left: 190px;
+    border: 1px solid #fff;
+    background: none;
+    color: #fff;
+}
+#dec{
+    padding-top: 80px;
+    margin-left: -120px;
+}
+#dec2{
+    padding-top: 80px;
+    margin-left: -50px;
+}
+.subsecondblock2{
+    width: 100%;
+    height: 1900px;
+    background-color: #F1F7F9;
+    border: 5px solid silver;
+    border-radius: 15px;
+}
+#handswork{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}
+#fabric{
+    padding-top: 40px;
+    padding-left: 400px;
+}
+#Secrets{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 30px;
+    color: #B5884D;
+}
+#screenshot{
+    padding-left: 400px;
+    background:none;
+}
+#images img{
+    width: 141px;
+    height: 141px;
+    border: 5px solid silver;
+    border-radius: 50%;
+}
+#FabrikWorks{
+    margin-left: 350px;
+    margin-top: 40px;
+    color: #AB8452;
+    font-weight: bolder;
+}
+#Thiscompanyconstitute{
+    margin-top: 30px;
+    margin-left: 350px;
+    width: 300px;
+    height: 30px;
+}
+#image-factory{
+    margin-left: 350px;
+}
+#icon-handmake{
+    margin-left: 750px;
+    margin-top: -450px;
+}
+#HandsWork{
+    margin-top: 80px;
+    margin-left: 750px;
+    margin-top: -130px;
+    color: #AB8452;
+    font-weight: bolder;
+}
+#decorationsElement{
+    margin-top: 30px;
+    margin-left: 750px;
+    width: 300px;
+    height: 20px;
+}
+#icon-natural{
+    margin-left: 1300px;
+    margin-top: -400px;
+}
+#naturalmaterials{
+    margin-left: 1300px;
+    margin-top: -115px;
+    color: #AB8452;
+    font-weight: bolder;
+}
+#Manufactured{
+    margin-left: 1300px;
+    margin-top: 30px;
+}
+#icon-european{
+    margin-left: 350px;
+    margin-top: 20px;
+}
+#EroupeanStyle{
+    margin-left: 350px;
+    color: #AB8452;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+#ClassicStyle{
+    margin-left: 350px;
+    width: 300px;
+    height: 20px;
+}
+#icon-eco{
+    margin-left: 750px;
+    margin-top: -380px;
+}
+#Furniture{
+    margin-left: 750px;
+    margin-top: -100px;
+    color: #AB8452;
+    font-weight: bolder;
+}
+#naturalmaterialsmake{
+    margin-top: 15px;
+    margin-left: 750px;
+    width: 300px;
+    height: 20px;
+}
+#icon-garanty{
+    margin-left: 1310px;
+    margin-top: -350px;
+}
+#Durabillity{
+    margin-left: 1310px;
+    margin-top: -100px;
+    color: #AB8452;
+    font-weight: bolder;
+}
+#Guarantee{
+    margin-left: 1310px;
+    width: 300px;
+    height: 20px;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: #FFFFFF;
+    margin-top: 1300px;
+}
+#logo-footer{
+    margin-top: 30px;
+    margin-left: 250px;
+}
+#phone{
+    margin-left: 600px;
+    margin-top: -40px;
+}
+#WeInSocialSites{
+    margin-left: 790px;
+    margin-top: -40px;
+}
+#social-vk,#social-facebook,#social-twitter,#itgrade{
+    width: 41px;
+    height: 41px;
+}
+#social-vk{
+    margin-left: 950px;
+    margin-top: -85px;
+}
+#social-vk,#social-facebook,#social-twitter{
+    border: 2px solid #EAE2D7;
+}
+#social-facebook{
+    margin-top: -85px;
+}
+#social-twitter{
+    margin-top: -85px;
+}
+#CreatedCompany{
+    margin-left: 1100px;
+    margin-top: -65px;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+#itgrade{
+    margin-left: 1350px;
+    margin-top: -70px;
+}
+.sliderone{
+    width: 570px;
+    height: 431px;
+    margin-left: 370px;
+}
+.slidertwo{
+    width: 570px;
+    height: 431px;
+    margin-left: 970px;
+    margin-top: 358px;
+}
